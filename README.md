@@ -27,3 +27,10 @@
 - ![Tux, the Linux mascot](https://media.istockphoto.com/id/656630396/photo/fish-and-chips-fried-cod-french-fries.jpg?s=612x612&w=0&k=20&c=SqDtN0y6kP_FwvO6WHIPt9dFeMJNicxkPsw-Rj-yTHA=)
 
 - ![Tux, the Linux mascot](https://media.istockphoto.com/id/1270926130/photo/plated-chicken-roast-dinner-on-white-plate-with-carrot-and-morel-mushroom.jpg?s=612x612&w=0&k=20&c=W3_rbXE511zBJHQKrPy8gOSZW4CmOzyB-7LnyOkints=)
+
+
+
+# some British retuarant links:
+-  [GREAT BRITISH RESTAURANT](https://www.gbrrestaurantslondon.com/).
+
+- [scoffandbanter](https://www.scoffandbanter.com/opening-hours/bloomsbury).
