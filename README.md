@@ -38,7 +38,7 @@
 
 # wireframe Images for GRILL retuatant
 
-- ![Tux, the Linux mascot](https://drive.google.com/file/d/1rnkFcLMQOuCMuEYNGCpU76tUrwJKmCeP/view?usp=share_link)
+- ![Tux, the Linux mascot](https://1drv.ms/i/s!AmH4_NwFnUTtkjXIxmHkUVj9keux?e=g21g8h)
 
-- ![Tux, the Linux mascot](https://drive.google.com/file/d/1pUgb_DcNgAQEqopHeNdHwp5kEBDwMHYs/view?usp=share_link)
+- ![Tux, the Linux mascot](https://1drv.ms/i/s!AmH4_NwFnUTtkjaktzCo1qwg2Rl3?e=c8UQOc)
 
