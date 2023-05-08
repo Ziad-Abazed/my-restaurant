@@ -38,7 +38,7 @@
 
 # wireframe Images for GRILL retuatant
 
-- ![Tux, the Linux mascot](https://1drv.ms/i/s!AmH4_NwFnUTtkjXIxmHkUVj9keux?e=g21g8h)
+- ![Tux, the Linux mascot](https://github.com/Ziad-Abazed/my-restaurant/blob/main/Annotation%202023-05-09%20013027.png?raw=true)
 
-- ![Tux, the Linux mascot](https://1drv.ms/i/s!AmH4_NwFnUTtkjaktzCo1qwg2Rl3?e=c8UQOc)
+- ![Tux, the Linux mascot](https://github.com/Ziad-Abazed/my-restaurant/blob/main/Annotation%202023-05-09%20013106.png?raw=true)
 
